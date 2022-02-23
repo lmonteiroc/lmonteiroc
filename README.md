@@ -31,7 +31,7 @@
  
   ![Animação de cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   <br>
- - ⚡ Curiosidade: Formado em Química, servidor público em SP, escritor, apaixonado por tecnologia tentando se tornar dev front end...
+ - ⚡ Curiosidade: Formado em Química, servidor público em SP, escritor, apaixonado por tecnologia, ansioso para entrar no mercado de tech como dev front end...
  
 
  </div>
