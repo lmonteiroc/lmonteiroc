@@ -10,9 +10,10 @@
 <div align="center">
 
 <!-- Snake Animation (GitHub Action) -->
-<img src="https://github.com/lmonteiroc/lmonteiroc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
+<div align="center">
+  <img src="https://github.com/lmonteiroc/lmonteiroc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
 
 ---
 
