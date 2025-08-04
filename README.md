@@ -1,6 +1,6 @@
 <!-- Banner animado (faça um upload seu ou use um dos exemplos do link abaixo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16a085,d35400,2d3436&height=200&section=header&text=Luciano%20Caprara&fontSize=45&fontAlignY=40&animation=twinkling" alt="Luciano Caprara Banner"/>
+  <img src="https://raw.githubusercontent.com/lmonteiroc/lmonteiroc/main/assets/banner-animado.gif" alt="Luciano Caprara Banner Animado" width="100%" />
 </p>
 
 <p align="center">
