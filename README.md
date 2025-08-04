@@ -1,63 +1,76 @@
-<h1 align="center">Olá! 👋 Eu sou o Luciano Caprara</h1>
-
+<h1 align="center">Luciano M. Caprara</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/28227296?v=4" width="180" style="border-radius: 50%;" alt="Luciano Caprara"/>
+  <img src="https://avatars.githubusercontent.com/u/28227296?v=4" width="120" style="border-radius: 50%;" alt="Luciano Caprara"/>
 </p>
 
-<p align="center">
-  <b>Transição de carreira para Tech 💻 | Dev Front-End & PHP (iniciante em Back-end) | Entusiasta de automação e projetos práticos</b>
-</p>
-
----
-
-- 🔭 **Em transição de carreira:** Servidor público (SP), apaixonado por tecnologia, focado em me tornar desenvolvedor e automatizador de processos.
-
-- 🌱 **Estudando:** HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL, APIs e projetos práticos (como folha de pagamento, automação e scraping).
-
-- 💡 **Projetos em destaque:**  
-  - [DP System - Sistema de Folha de Pagamento PHP](https://github.com/lmonteiroc/dp_system)
-  - [The Movie Database API (Codepen)](https://codepen.io/lmonteiroc/pen/MWErpdL)
-  - [Outros projetos práticos no GitHub →](https://github.com/lmonteiroc?tab=repositories)
-
-- 👯 **Busco oportunidades:** Desenvolvedor Junior, Analista ou Suporte em TI, projetos práticos e automação.
-
-- ⚡ **Curiosidades:** Formado em Química, escritor, espiritualizado, amante de soluções criativas e hacking ético.
+<p align="center"><b>Desenvolvedor Web & Automação • PHP • JS • MySQL • Linux • Projetos do mundo real</b></p>
 
 ---
 
 <div align="center">
 
-![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmonteiroc&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmonteiroc&layout=compact&langs_count=7&theme=merko)
+<!-- Snake Animation (GitHub Action) -->
+<img src="https://github.com/lmonteiroc/lmonteiroc/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-### 📫 Contato & Redes
+## 👨‍💻 Sobre mim
+
+- Profissional em transição para tecnologia, apaixonado por resolver problemas com código e automação.
+- Experiência com desenvolvimento web, integração de sistemas, automatização de processos e criação de soluções sob demanda.
+- Atuação hands-on em projetos práticos: folha de pagamento, APIs, painéis administrativos, scripts úteis.
+- Sempre focado em aprender tecnologias novas e entregar resultado.
+
+---
+
+## 🚀 Minhas principais habilidades
+
+- **Backend:** PHP (OO/MVC), MySQL/MariaDB, APIs REST
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript básico
+- **Automação:** Raspagem de dados, integração de sistemas, scripts para Linux/Windows
+- **Ferramentas:** Git & GitHub, VS Code, Linux, Apache, Shell Script
+- **Diferenciais:** Documentação, organização de projeto, foco em resultado
+
+---
+
+## 📌 Projetos em destaque
+
+- [DP System – Sistema de Folha de Pagamento (PHP)](https://github.com/lmonteiroc/dp_system)
+- [API de Filmes (CodePen)](https://codepen.io/lmonteiroc/pen/MWErpdL)
+- [Outros projetos →](https://github.com/lmonteiroc?tab=repositories)
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianomonteirocaprara/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white)](https://github.com/lmonteiroc)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/l.monteiroc)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511951994876)
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianomcaprara@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano%20Caprara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianomonteirocaprara/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511951994876)
+[![Instagram](https://img.shields.io/badge/Instagram-l.monteiroc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l.monteiroc)
+[![Gmail](https://img.shields.io/badge/Gmail-lucianomcaprara@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianomcaprara@gmail.com)
 
 </div>
 
 ---
 
-<!-- Snake animation funciona apenas para quem usa perfil público e ativa GitHub Actions, remova se não funcionar
-<p align="center">
-  <img src="https://github.com/lmonteiroc/lmonteiroc/blob/output/github-contribution-grid-snake.svg" alt="snake anim" />
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lmonteiroc&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmonteiroc&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
+---
+
+<!-- Snake animation instructions
+  1. Crie o arquivo .github/workflows/snake.yml no seu repositório de perfil.
+  2. Cole o conteúdo da action: https://github.com/Platane/snk
+  3. O SVG da animação será gerado automaticamente!
+  4. Se não quiser usar a snake, remova o bloco acima.
 -->
 
 ---
 
-> 📢 **Disponível para conversar e aberto a oportunidades!**  
-> **Vamos juntos construir soluções incríveis.**
-
----
+> “Busco oportunidades como dev ou analista para criar sistemas que fazem diferença na vida real. Vamos conversar?”
 
